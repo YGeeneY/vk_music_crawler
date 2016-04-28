@@ -1,0 +1,4 @@
+backports-abc==0.4
+selenium==2.53.2
+tornado==4.3
+Unidecode==0.4.19

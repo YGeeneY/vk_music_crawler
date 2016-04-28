@@ -1,4 +1,3 @@
-import logging
 
 LOGIN = 'YourLogin'
 PWD = 'YourPassword'

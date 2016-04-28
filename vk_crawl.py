@@ -2,6 +2,7 @@ import pickle
 from re import search as re_search
 from selenium.webdriver import PhantomJS
 from unidecode import unidecode
+import logging
 
 from settings import *
 logger = logging.getLogger('vk_sniffer')
