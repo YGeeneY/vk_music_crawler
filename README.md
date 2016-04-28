@@ -1,4 +1,6 @@
 # vk_music_crawler
+pip install -r requirements.txt
+also required Phanotmjs linux package
 
 edit settings.py
 
